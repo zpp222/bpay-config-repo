@@ -1,1 +1,2 @@
-baidu=http://www.baidu.com
+# config  属性以冒号分割
+baidu: http://www.baidu.com
